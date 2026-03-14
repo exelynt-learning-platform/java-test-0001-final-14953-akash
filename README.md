@@ -6,18 +6,6 @@ This program demonstrates the use of **Java nested loops, spacing control, and p
 
 The goal is to print the pattern exactly as specified using proper alignment and formatting.
 
-## Expected Output
-
-    *
-   * *
-  *   *
- *     *
-*       *
- *     *
-  *   *
-   * *
-    *
-
 ---
 
 # Approach
